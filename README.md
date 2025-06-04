@@ -2,11 +2,11 @@
 
 <img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
 
-Yay **PollinaKire-FS** you finished the exercise! Nice work :tada:
+Yay **kirecoding** you finished the exercise! Nice work :tada:
 
 If you would like to retrace your steps, you can always revisit the exercise.
 
-[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/PollinaKire-FS/skills-communicate-using-markdown/issues/1)
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/kirecoding/skills-communicate-using-markdown/issues/1)
 
 > [!TIP]
 > Mona won't grade you this time! 😉
